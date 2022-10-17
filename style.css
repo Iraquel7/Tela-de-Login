@@ -81,7 +81,7 @@ body{
     box-sizing: border-box;
 }
 .textfield > input::placeholder {
-    color: rgb(187, 179, 179);
+    color: #00f5d4;
 }
 .btn{
     width: 70%;
